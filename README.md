@@ -37,7 +37,7 @@ Organizo mis proyectos así para que sea fácil de navegar:
 - **42-Cursus/** → Proyectos del cursus (libft, gnl, printf, push_swap, so_long…)  
 - **Projects/** → Proyectos personales y experimentos  
 - **Learning/** → Ejercicios, pruebas y playgrounds
-- 
+  
 <!--
 ---
 
