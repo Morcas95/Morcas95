@@ -1,16 +1,71 @@
-## Hi there 👋
-
 <!--
-**Morcas95/Morcas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+LinkedIn (agregar cuando esté listo):
+https://www.linkedin.com/in/tu-usuario
 -->
+
+# 👋 ¡Hola! Soy Marcos
+
+### Estudiante de programación en 42 Madrid.  
+Aprendiendo programación desde las bases y construyendo proyectos prácticos.
+
+**Actualmente aprendiendo:** C, Linux y fundamentos del desarrollo.
+
+---
+
+## 🛠️ Tecnologías principales
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,git" />
+</p>
+
+**También:** Makefile, herramientas de terminal y conceptos de arquitectura aprendidos en 42.
+
+---
+
+## 📌 Proyectos destacados
+
+Aquí irán tus repos más importantes.  
+Cuando los marques como “pinned” en GitHub, coincidirán con esta sección.
+
+- 🚀 **push_swap** — Algoritmia, optimización y manejo de pilas  
+- 💬 **minishell** (cuando esté terminado) — Parsing, procesos, pipes, señales  
+- 🎮 **so_long** — Primer proyecto gráfico con MLX  
+- 🧵 **pipex** — Procesos, redirecciones, ejecución en Linux  
+
+*(Puedes cambiar los nombres/links cuando quieras. Esto es solo el set inicial.)*
+
+---
+
+## 📂 Estructura de mis repositorios
+
+Organizo mis proyectos así para que sea fácil de navegar:
+
+- **42-Cursus/** → Proyectos del cursus (libft, gnl, printf, push_swap, so_long…)  
+- **Projects/** → Proyectos personales y experimentos  
+- **Learning/** → Ejercicios, pruebas y playgrounds
+
+---
+
+## 📈 Estadísticas
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Morcas95&show_icons=true&theme=default&hide=issues,contribs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morcas95&layout=compact&theme=default" />
+</p>
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: *[añadir cuando quieras]*  
+- 💼 LinkedIn: *pendiente de creación*  
+
+---
+
+## 🙌 Sobre mí
+
+Intento mejorar cada día como programador, aprendiendo a base de proyectos, pruebas y curiosidad por entender cómo funcionan las cosas por dentro.
+
+---
+
+Gracias por pasarte por mi perfil 👀
