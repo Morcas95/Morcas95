@@ -24,15 +24,9 @@ Aprendiendo programación desde las bases y construyendo proyectos prácticos.
 
 ## 📌 Proyectos destacados
 
-Aquí irán tus repos más importantes.  
-Cuando los marques como “pinned” en GitHub, coincidirán con esta sección.
-
 - 🚀 **push_swap** — Algoritmia, optimización y manejo de pilas  
-- 💬 **minishell** (cuando esté terminado) — Parsing, procesos, pipes, señales  
 - 🎮 **so_long** — Primer proyecto gráfico con MLX  
 - 🧵 **pipex** — Procesos, redirecciones, ejecución en Linux  
-
-*(Puedes cambiar los nombres/links cuando quieras. Esto es solo el set inicial.)*
 
 ---
 
@@ -43,23 +37,15 @@ Organizo mis proyectos así para que sea fácil de navegar:
 - **42-Cursus/** → Proyectos del cursus (libft, gnl, printf, push_swap, so_long…)  
 - **Projects/** → Proyectos personales y experimentos  
 - **Learning/** → Ejercicios, pruebas y playgrounds
-
----
-
-## 📈 Estadísticas
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Morcas95&show_icons=true&theme=default&hide=issues,contribs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morcas95&layout=compact&theme=default" />
-</p>
-
+- 
+<!--
 ---
 
 ## 📫 Contacto
 
 - 📧 Email: *[añadir cuando quieras]*  
 - 💼 LinkedIn: *pendiente de creación*  
-
+-->
 ---
 
 ## 🙌 Sobre mí
